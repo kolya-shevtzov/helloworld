@@ -101,8 +101,8 @@ public class Main {
         System.out.println(ChristinaPercent10);
         int MaryNextYears=Mary+MaryPercent10;
         System.out.println("Маша теперь получает "+ MaryNextYears+" рублей. Годовой доход вырос на "+MaryPercent10 +" рублей");
-        int DenisNextYear= Denis+ DenisPercent10;
-        System.out.println ("Денис теперь получает "+ DenisNextYear+ " рублей. Годовой доход вырос на "+ DenisPercent10+ " рублей");
+        int DenisNextYears= Denis+ DenisPercent10;
+        System.out.println ("Денис теперь получает "+ DenisNextYears+ " рублей. Годовой доход вырос на "+ DenisPercent10+ " рублей");
         int ChristinaNextYear= Christina+ChristinaPercent10;
         System.out.println("Кристина теперь получает "+ ChristinaNextYear+" рублей. Годовой доход вырос на "+ ChristinaPercent10+ " рублей");
     }
