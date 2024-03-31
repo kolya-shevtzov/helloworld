@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        byte x= 1;
-        System.out.println(x);
+        byte z= 1;
+        System.out.println(z);
         short y= 10000;
         System.out.println(y);
         int i=1000000000;
